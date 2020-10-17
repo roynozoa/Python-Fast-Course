@@ -1,0 +1,9 @@
+{
+    "editor.fontSize": 18,
+    "terminal.integrated.fontSize": 16,
+    "window.zoomLevel": 0.5,
+
+    "workbench.iconTheme": "vscode-icons",
+    "editor.formatOnSave": true,
+    
+}
