@@ -11,3 +11,15 @@ print(type('Hello World'))  # printing type for 'Hello World'
 
 
 print(type(1))  # 1 is an object of the 'int' class
+
+
+def print_function():
+    print('Print Function')
+
+
+# print_function is an object of the 'function' class
+print(type(print_function))
+
+# Everything in python is an object of a specific class
+# We can create a specific class in order to create a specific object with OOP concept
+# Two type of class is 'built in class' and 'manually created class'
