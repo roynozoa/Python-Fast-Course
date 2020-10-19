@@ -1,5 +1,6 @@
 # Python speed course
-# My code repository for learning python
+# This covers basic and fundamentals concept in python programming language
+# This source code is a prove for my practical learning in python
 # Muhammad Adisatriyo Pratama - October 2020
 
 # (1) Data Types : int (123123, -5452, etc), Float (421.0, -4.5, 53.4), String ("Hi", 'Hello'),

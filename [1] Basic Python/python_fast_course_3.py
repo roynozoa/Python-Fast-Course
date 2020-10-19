@@ -22,7 +22,8 @@ print('=====')
 dictionaries1 = {'key': 'value'}  # Dict variable need key and value in it
 print(dictionaries1['key'])  # how to print key dictionaries
 
-dictionaries1[2] = ['Dictionaries 2', 2, "two", 222]  # add key to dicts
+# add value to specific key in dicts
+dictionaries1[2] = ['Dictionaries 2', 2, "two", 222]
 dictionaries1['three'] = 3  # key do not have to be the same data type
 print(dictionaries1)
 
