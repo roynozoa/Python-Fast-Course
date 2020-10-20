@@ -1,4 +1,4 @@
-# Object Oriented Programming in python
+# Object Oriented Programming in python (beginner level)
 # This source code is my practical learning for object oriented programming in python
 # Muhammad Adisatriyo Pratama - October 2020
 
