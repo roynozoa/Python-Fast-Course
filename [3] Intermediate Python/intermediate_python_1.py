@@ -29,5 +29,13 @@ print('================')
 print(datetime.now())  # print current date and time
 print(date.today())  # print current date
 print(datetime.now().time())  # print current time
+print('================')
+
 
 # Formatting dates
+# %d = date of month, %m = month(num), %b = month name (short),
+# %B = month name, %Y = year, %M = minutes, %S = seconds
+now = datetime.now().strftime("%d/%m/%Y %H:%M:%S")  # dd/mm/YYYY HH:MM:SS
+now2 = datetime.now().strftime("%d-%b-%Y %H:%M:%S")  # dd-bbb-YYYY HH:MM:SS
+print(now)
+print(now2)
